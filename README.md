@@ -31,7 +31,7 @@ or:
 python3 scripts/install.py --platform claude
 ```
 
-The installer copies **all completed skills** into the appropriate user skills directory. It has no network dependency and will not replace existing skills unless you request `--update`; updates save a backup. `--dry-run` previews the destinations. For Codex, use `$paper1-marker`. While working inside a clone, Codex can also discover the repository skill through .agents/skills/.
+The installer copies **all completed skills** into the appropriate user skills directory. It has no network dependency and will not replace existing skills unless you request `--update`; updates save a backup. `--dry-run` previews the destinations. For Codex, use `$paper1-marker`.
 
 ### Claude app and ChatGPT
 
@@ -49,7 +49,6 @@ Provide your **exact question**, essay/plan and whether it is timed practice or 
 skills/paper1-marker/    Skill and supporting text references
 advice/                 Sashank's Year 3 workflow and mind-map example
 scripts/                Install all skills; create upload ZIPs
-.agents/skills/          Codex discovery link to the canonical skill
 .claude-plugin/          Claude Code collection/plugin metadata
 .github/workflows/      Structural checks for contributions
 ROADMAP.md              Proposed skills, clearly marked as unfinished
@@ -61,6 +60,6 @@ The public edition includes summarised tutor lessons and a historical criteria s
 
 ## Development
 
-Run `python3 scripts/check.py` and `python3 scripts/package.py` before publishing. Add a new completed skill under skills/ with a SKILL.md and only the references it needs; keep source provenance explicit. The all-skills installer discovers it automatically. Add its Codex discovery link if repository-local discovery is wanted.
+Run `python3 scripts/check.py` and `python3 scripts/package.py` before publishing. Add a new completed skill under skills/ with a SKILL.md and only the references it needs; keep source provenance explicit. The all-skills installer discovers it automatically.
 
 Installation mechanics follow [OpenAI's skills documentation](https://learn.chatgpt.com/docs/build-skills) and [Claude Code's marketplace documentation](https://code.claude.com/docs/en/plugin-marketplaces). This repository is an independent student resource, not an Oxford-endorsed marking service.

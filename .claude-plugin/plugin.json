@@ -1,0 +1,9 @@
+{
+  "name": "oxford-year3-skills",
+  "version": "0.1.0",
+  "description": "Oxford Year 3 medicine study skills, beginning with Paper 1 marking and plan feedback.",
+  "author": {
+    "name": "Sashank Uday"
+  },
+  "repository": "https://github.com/SashankUday/oxford-year3-skills"
+}

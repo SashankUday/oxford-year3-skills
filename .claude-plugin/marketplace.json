@@ -1,0 +1,14 @@
+{
+  "name": "oxford-year3-skills",
+  "owner": {
+    "name": "Sashank Uday"
+  },
+  "plugins": [
+    {
+      "name": "oxford-year3-skills",
+      "source": "./",
+      "description": "Install the complete available Year 3 skill collection."
+    }
+  ],
+  "description": "Oxford third-year medicine study workflows and marking skills"
+}

@@ -35,13 +35,21 @@ You do not need to choose options from three different fields just to prepare fo
 
 Choose tutorial topics that recur in past questions. Spread tutorials sensibly so you have time to research, write and act on feedback. Ask for additional tutorials when you need them: tutors may arrange more, but you need to ask.
 
-Use lectures as the beginning of your research. Build an argument of your own and find evidence beyond the lecture. Originality here means independent selection, synthesis and judgement; you do not need to invent a novel scientific finding.
+### Lectures: orientation, then independent judgement
+
+One of the hardest transitions, in Sashank’s experience, is moving away from studying against a clearly bounded syllabus. Third year can feel as though there is no syllabus telling you exactly what to learn. Use lectures to get a rough understanding of the topic, the lecturer’s perspective and useful starting references; do not assume the lecture defines everything you should know or the conclusions you should reach. Check formal course and assessment requirements separately.
+
+Sashank’s strongest warning is to avoid over-relying on lectures: examiners can recognise an essay that simply repeats the lecture, even in different words, and in his experience they strongly dislike it. Treat this as his practical advice, separate from the official marking criteria. An essay needs your own evidence-backed argument and judgement.
+
+Use the literature workflow below to develop that independence. Sashank recommends OpenEvidence to find additional papers, then Research Rabbit to explore how those papers connect into a wider research network. Follow up the underlying papers yourself: compare their methods and findings, examine disagreements and identify evidence or interpretations beyond those included in the lecture. Use those connections to develop fresh, defensible perspectives that other essays may miss.
+
+Originality means independent selection, synthesis and judgement. It can be a new connection, a different interpretation or a well-supported challenge to an argument; you do not need to invent a new scientific finding. Additional papers earn their place by improving your answer to the question, rather than simply being absent from the lecture.
 
 ## 4. Paper 1: evidence, argument, then memory
 
 For each essay question or question family you plan to prepare:
 
-1. Start with past questions and the lecture’s starting references. Use OpenEvidence or Research Rabbit to explore the literature if useful.
+1. Start with past questions and the lecture’s starting references. Use OpenEvidence to find additional papers, then Research Rabbit to explore connections and build a picture of the wider research. Read the original papers and develop your own view rather than adopting the lecture’s conclusions.
 2. Gather roughly 50–60 relevant papers as an initial pool. This number is per prepared essay question, not per option. Overlapping questions can share papers.
 3. Use ScholarGPT with the prompt **“Summarise and critique this paper”**. Check the original paper before relying on a finding or criticism in an essay.
 4. Build a database tagged by option, topic and possible essay use. Give each paper a one-line statement of what it contributes.
